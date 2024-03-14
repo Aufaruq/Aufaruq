@@ -5,7 +5,7 @@
 I am a junior developer who has been involved in the world of coding since 2019, I started my first coding when I created a website only containing HTML and CSS, it was really sad, then I started to enter the world of coding after I became acquainted with the client side game Gta San Andreas (SA :MP) It was quite difficult for me at the beginning to learn C++ syntax code at that time, but as time went by I was able to learn and create my own features in the development of myself and the server I created previously, and I started making showcases on the YouTube page I'm called "[Aufaruq][youtube]"
 
    <p align="left">
-      <a href="https://www.youtube.com/c/Aufaruq?sub_confirmation=1">
+      <a href="[https://www.youtube.com/c/Aufaruq?sub_confirmation=1](https://www.youtube.com/channel/UCp0Gl40O_2KrUOy7Y5Pb_-Q)">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCp0Gl40O_2KrUOy7Y5Pb_-Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="[https://www.youtube.com/c/Aufaruq](https://www.youtube.com/channel/UCp0Gl40O_2KrUOy7Y5Pb_-Q)">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCp0Gl40O_2KrUOy7Y5Pb_-Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
