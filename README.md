@@ -31,7 +31,7 @@ I am a junior developer who has been involved in the world of coding since 2019,
 
 #
 
-### 📺 Top Fitur Showcase in Youtube
+### 📺 superior features on my YouTube, click the image below to view my YouTube page
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![[SA:MP] Discord Bot JS WhatsApp Register Akun || beyond Roleplay Development](https://ytcards.demolab.com/?id=xraZUDaBjGM&title=[SA:MP]+Discord+Bot+Js+WhatsApp+Register+Account+Scraping+%28Advanced%29&lang=en&timestamp=1709917248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=190 "[SA:MP] Discord Bot JS WhatsApp Register Akun || beyond Roleplay Development")](https://www.youtube.com/watch?v=xraZUDaBjGM)
