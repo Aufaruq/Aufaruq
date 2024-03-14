@@ -42,7 +42,7 @@ I am a junior developer who has been involved in the world of coding since 2019,
 [![[SA:MP] Ox Target SAMP || Althea Development](https://ytcards.demolab.com/?id=LqaMesCeXOg&t=98s&title=[SA:MP]+Ox+Target+SAMP+||+Althea+Development&lang=en&timestamp=1706360421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=159 "[SA:MP] Ox Target SAMP || Althea Development")](https://www.youtube.com/watch?v=LqaMesCeXOg&t=98s)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/Aufaruq?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCp0Gl40O_2KrUOy7Y5Pb_-Q)
 
 #
 
